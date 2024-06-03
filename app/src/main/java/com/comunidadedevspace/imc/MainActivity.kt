@@ -53,7 +53,9 @@ class MainActivity : AppCompatActivity() {
                 intent.putExtra(KEY_RESULT_IMC, resultado)
                 startActivity(intent)
 
-                println("Denis " + resultado)
+                //Cores
+                //Edit Text background
+                //Gradiente + icone + titulo
             }
 
 
